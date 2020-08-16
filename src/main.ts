@@ -1,4 +1,4 @@
-import EntityComponentSystem, {ECS, Entity, System} from "@fritzy/ecs";
+import EntityComponentSystem, {ECS} from "@fritzy/ecs";
 
 require("fpsmeter");
 
